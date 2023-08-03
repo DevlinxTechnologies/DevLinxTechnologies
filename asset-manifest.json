@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DevLinxTechnologies/static/css/main.bff3dc8d.css",
+    "main.js": "/DevLinxTechnologies/static/js/main.3d4b53d7.js",
+    "static/media/possibility.png": "/DevLinxTechnologies/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/DevLinxTechnologies/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/ai.png": "/DevLinxTechnologies/static/media/ai.13469086d9785f96b416.png",
+    "static/media/blog03.png": "/DevLinxTechnologies/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/DevLinxTechnologies/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/DevLinxTechnologies/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/DevLinxTechnologies/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/DevLinxTechnologies/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/DevLinxTechnologies/index.html",
+    "main.bff3dc8d.css.map": "/DevLinxTechnologies/static/css/main.bff3dc8d.css.map",
+    "main.3d4b53d7.js.map": "/DevLinxTechnologies/static/js/main.3d4b53d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff3dc8d.css",
+    "static/js/main.3d4b53d7.js"
+  ]
+}
